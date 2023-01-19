@@ -1,4 +1,4 @@
-TASK
+TASK:
 var figures = [
 {length: 2, width: 5, height: 3},
 {length: 3, width: 2, height: 6},

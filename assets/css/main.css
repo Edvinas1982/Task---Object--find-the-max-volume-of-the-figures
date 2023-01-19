@@ -345,4 +345,8 @@ template {
 [hidden] {
   display: none;
 }
+
+body {
+  text-align: center;
+}
 /*# sourceMappingURL=main.css.map */
